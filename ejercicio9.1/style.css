@@ -1,0 +1,19 @@
+.btn-modern {
+    background-color: greenyellow;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+
+.btn-modern:hover {
+    transform: translateY(-5px);
+    border: none;
+    box-shadow: 10px black;
+    background-color: aqua;
+    color: black;
+    box-shadow: 2px 2px cornflowerblue;
+    transition: all 0.4s;
+
+
+}
