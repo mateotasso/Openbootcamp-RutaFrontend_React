@@ -20,5 +20,5 @@ const list = [
         autor: "Paul Auster",
         fecha: new Date("november 1 1996"),
         url: "https://es.wikipedia.org/wiki/La_noche_del_or%C3%A1culo"
-    }
-]
+    },
+];
